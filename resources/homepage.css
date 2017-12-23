@@ -1,0 +1,25 @@
+@media screen and (max-width:700px){
+    .big-calendar {
+        display: none;
+    }
+    .little-calendar {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 701px){
+    .big-calendar {
+        display: block;
+    }
+    .little-calendar {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .big-calendar {
+        margin-left: 10vw;
+        margin-right: 10vw;
+        width: 80vw;
+    }
+}
