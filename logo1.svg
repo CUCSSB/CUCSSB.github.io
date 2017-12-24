@@ -64,7 +64,7 @@
      transform="translate(-14.643673,-34.187656)">
     <path
        sodipodi:type="star"
-       style="fill:#ffd740;fill-opacity:1;stroke-width:0.26458332"
+       style="fill:#ffc107;fill-opacity:1;stroke-width:0.26458332"
        id="path4514"
        sodipodi:sides="6"
        sodipodi:cx="55.184525"
@@ -82,7 +82,7 @@
        inkscape:transform-center-x="1.508549e-005" />
     <path
        sodipodi:type="star"
-       style="fill:#455a63;fill-opacity:1;stroke-width:0.26458332"
+       style="fill:#455a64;fill-opacity:1;stroke-width:0.26458332"
        id="path4514-0"
        sodipodi:sides="6"
        sodipodi:cx="55.184525"
@@ -101,12 +101,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.64263916px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.19109392"
        x="105.18913"
-       y="133.149"
+       y="145.84883"
        id="text4545"><tspan
          sodipodi:role="line"
          x="105.18913"
-         y="133.149"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.27777778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.19109392"
+         y="145.84883"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.27777863px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.19109392"
          id="tspan4547">CSUAC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.43369"
+       y="97.811646"
+       id="text826"><tspan
+         sodipodi:role="line"
+         id="tspan824"
+         x="105.43369"
+         y="97.811646"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">University of</tspan><tspan
+         sodipodi:role="line"
+         x="105.43369"
+         y="111.12721"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan828">Colorado at Boulder</tspan></text>
   </g>
 </svg>

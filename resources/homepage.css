@@ -5,6 +5,9 @@
     .little-calendar {
         display: block;
     }
+    .logo-class {
+        width: 40vw;
+    }
 }
 
 @media screen and (min-width: 701px){
@@ -13,6 +16,9 @@
     }
     .little-calendar {
         display: none;
+    }
+    .logo-class {
+        width: 25vw;
     }
 }
 
