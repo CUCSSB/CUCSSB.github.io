@@ -1,33 +1,7 @@
-@media screen and (max-width:700px){
-    .big-calendar {
-        display: none;
-    }
-    .little-calendar {
-        display: block;
-    }
-    .logo-class {
-        width: 40vw;
-    }
-}
-
-@media screen and (min-width: 701px){
-    .big-calendar {
-        display: block;
-    }
-    .little-calendar {
-        display: none;
-    }
-    .logo-class {
-        width: 25vw;
-    }
-}
-
-@media screen and (min-width: 1025px) {
-    .big-calendar {
-        margin-left: 10%;
-        padding-bottom: 10%;
-        width: 80%;
-    }
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 
 #content {
@@ -36,11 +10,37 @@
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    padding: 10%;
 }
 
 #page {
-    margin: 10%;
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.6)
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 5%
+}
 
+.logo-class {
+    margin: 10%;
+    width: 80%;
+}
+
+@media screen and (max-width:700px){
+    .big-calendar {
+        display: none;
+    }
+    .little-calendar {
+        display: block;
+        width: 100%;
+        height: 50vh;
+    }
+}
+
+@media screen and (min-width: 701px){
+    .big-calendar {
+        width: 100%;
+        height: 70vw;
+    }
+    .little-calendar {
+        display: none;
+    }
 }
