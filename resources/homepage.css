@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Helvetica', sans-serif;
+    color: white;
 }
 
 #content {
@@ -19,13 +20,14 @@
     }
     #page {
         border-radius: 10px;
-        background-color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0);
         padding: 5%;
     }
     .icon {
         margin-left: 10%;
         margin-right: 10%;
         width: 15%;
+        fill: white;
     }
     .big-calendar {
         display: none;
@@ -46,13 +48,14 @@
     }
     #page {
         border-radius: 10px;
-        background-color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0);
         padding: 5%;
     }
     .icon {
         margin-left: 2.5%;
         margin-right: 2.5%;
         width: 5%;
+        fill: white;
     }
     .big-calendar {
         width: 100%;
