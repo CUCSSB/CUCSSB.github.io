@@ -1,2 +1,2 @@
-# CSUAC.github.io
-CSUAC Website
+# CSSB.github.io
+CSSB Website
