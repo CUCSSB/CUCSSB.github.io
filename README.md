@@ -1,2 +1,2 @@
-# CSSB.github.io
+# CUCSSB.github.io
 CSSB Website
